@@ -1,5 +1,3 @@
-I'll help you create a markdown introduction for Gizwits based on the provided information. Here's a comprehensive company profile:
-
 # Gizwits IoT Technology Co., Ltd.
 
 ## Company Overview
